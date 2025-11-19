@@ -6,10 +6,10 @@
 
 ## 🌟 **About the Project**
 
-LightHouse_Games is my **personal fun lab** where I build multiplayer browser games, experiment with crazy ideas, and learn full-stack development while doing **cool stuff** instead of boring tutorials.
+LightHouse_Games is a team-made game lab where we create multiplayer browser games, try wild ideas, break things, fix them again, and keep learning full-stack development while having fun.
 
-Think of this repo as a **gaming playground** built with code.
-One brain, one keyboard, unlimited chaos. 😎⚡
+This repo is our playground —
+where three minds, one dream, and unlimited chaos come together. 😎⚡
 
 ---
 
@@ -29,7 +29,7 @@ One brain, one keyboard, unlimited chaos. 😎⚡
 * **Frontend:** HTML, CSS, JavaScript,React
 * **Backend:** Node.js + Express
 * **Realtime:** Socket.io (for magical connections)
-* **Others:** Git, VS Code, a lot of coffee ☕
+* **Others:** Git, VS Code, 3 brains + 3 coffees ☕☕☕
 
 ---
 
@@ -45,6 +45,11 @@ LightHouse_Games/
 ```
 
 ---
+
+## 👥 Team Members
+- [Aman Gupta](https://github.com/AmanGupta1354)
+- [metamorphosis](https://github.com/metamorphosis)
+- [ParidhiJain727](https://github.com/ParidhiJain727)
 
 ## 🔥 **How to Run (Super Easy Mode)**
 
