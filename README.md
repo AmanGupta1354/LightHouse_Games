@@ -6,12 +6,11 @@
 
 ## 🌟 **About the Project**
 
-LightHouse_Games is a team-made game lab where we create a multilevel game 
-each round of increasing difficulty, and required you think and solve fast 
-three minds 4 rounds.
+LightHouse_Games is a team-built game lab where we are creating a multi-level challenge game.
+Each round gets faster, harder, and trickier, pushing you to think quickly, react smartly, and survive the chaos across 4 intense rounds.
 
 This repo is our playground —
-where three minds, one dream, and unlimited chaos come together. 😎⚡
+where three minds, one vision, and endless creativity come together to build something fun, crazy, and exciting. 😎⚡
 
 ---
 
