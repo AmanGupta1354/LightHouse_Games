@@ -51,6 +51,7 @@ LightHouse_Games/
 - [metamorphosis](https://github.com/metamorphosis)
 - [ParidhiJain727](https://github.com/ParidhiJain727)
 
+---
 ## 🔥 **How to Run (Super Easy Mode)**
 
 ### 1️⃣ Clone the repo
