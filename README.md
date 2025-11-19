@@ -6,7 +6,9 @@
 
 ## 🌟 **About the Project**
 
-LightHouse_Games is a team-made game lab where we create multiplayer browser games, try wild ideas, break things, fix them again, and keep learning full-stack development while having fun.
+LightHouse_Games is a team-made game lab where we create a multilevel game 
+each round of increasing difficulty, and required you think and solve fast 
+three minds 4 rounds.
 
 This repo is our playground —
 where three minds, one dream, and unlimited chaos come together. 😎⚡
